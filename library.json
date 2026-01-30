@@ -1,0 +1,20 @@
+{
+    "101": {
+        "id": "101",
+        "title": "Python",
+        "author": "Guido Van Rossum",
+        "issued": false
+    },
+    "102": {
+        "id": "102",
+        "title": "Java",
+        "author": "James Gosling",
+        "issued": false
+    },
+    "103": {
+        "id": "103",
+        "title": "C Programing",
+        "author": "Dennis Ritchie",
+        "issued": false
+    }
+}
