@@ -1,0 +1,10 @@
+2026-02-03 12:54:07,086 - ERROR - Recipient file missing.
+2026-02-03 12:56:27,333 - ERROR - Recipient file missing.
+2026-02-03 12:58:50,909 - ERROR - Attempt 1 failed for john@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3547aff6264sm1026651a91.5 - gsmtp')
+2026-02-03 12:58:54,980 - ERROR - Attempt 2 failed for john@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82379b59e10sm18413075b3a.25 - gsmtp')
+2026-02-03 12:58:58,986 - ERROR - Attempt 3 failed for john@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82379c22672sm17749114b3a.51 - gsmtp')
+2026-02-03 12:59:00,987 - ERROR - Email failed after retries: john@gmail.com
+2026-02-03 12:59:04,097 - ERROR - Attempt 1 failed for alice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a88b4c45c4sm158161145ad.62 - gsmtp')
+2026-02-03 12:59:08,171 - ERROR - Attempt 2 failed for alice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a88b6ed92dsm168117865ad.93 - gsmtp')
+2026-02-03 12:59:12,253 - ERROR - Attempt 3 failed for alice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6428371715sm16355086a12.13 - gsmtp')
+2026-02-03 12:59:14,253 - ERROR - Email failed after retries: alice@gmail.com
